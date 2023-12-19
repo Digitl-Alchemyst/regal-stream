@@ -3,6 +3,8 @@ import Link from 'next/link'
 import React from 'react'
 import { ThemeToggle } from './ThemeToggle'
 import SearchInput from './SearchInput'
+import GenreDropdown from './GenreDropdown'
+
 
 function Header() {
   return (
@@ -13,7 +15,7 @@ function Header() {
 
       <div className='flex space-x-2'>
         {/* Genre Dropdown Menu  */}
-
+        <GenreDropdown />
         {/* Search Bar  */}
         <SearchInput />
         {/* Dark Light Mode Toggle  */}
