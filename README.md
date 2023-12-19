@@ -43,6 +43,7 @@
         🔮 OpenAI API<br>
         📁 ShadCN UI Library<br>
         🎥 TMDb API<br>
+        🦺 Zod<br>
 </h4>
 
 <h3><ul><b>Project State</b></ul></h3>
