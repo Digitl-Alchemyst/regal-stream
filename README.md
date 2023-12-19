@@ -31,7 +31,6 @@
 [Demo Video](https://www.youtube.com/@DigitlAlchemyst)
 
 <h2><ul><b>Features</b></ul></h2>
-EMOJI cheatsheet 😛😳😗😓🙉😸🙈🙊😽💀💢💥✨💏👫👄👃👀👛👛🗼🔮
 <h4>
 <h3><ul><b>Envrioment</b></ul></h3>
         📟 Next.js <br>
