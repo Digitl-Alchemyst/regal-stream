@@ -12,11 +12,14 @@ content: [
     container: {
       center: true,
       padding: "2rem",
-      screens: {
-        "2xl": "1400px",
-      },
     },
     extend: {
+      flex: {
+        full: "0 0 100%"
+      },
+      screens: {
+        xxl: '1950px'
+      },
       lineClamp: {
         '8': '8', 
         '15': '15', 

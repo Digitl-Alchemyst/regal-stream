@@ -19,7 +19,7 @@ export default function RootLayout({
   return (
     <html lang='en'>
       <body
-        className={`bg-rslight-400 text-rsdark-900 scrollbar-hide dark:bg-rsdark-800 dark:text-rslight-200 ${inter.className}`}
+        className={`bg-rslight-400 text-rsdark-900 scrollbar-hide dark:bg-rsdark-900 dark:text-rslight-200 ${inter.className}`}
       >
         <ThemeProvider
           attribute='class'

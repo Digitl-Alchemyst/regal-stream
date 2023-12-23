@@ -8,7 +8,7 @@ import GenreDropdown from './GenreDropdown'
 
 function Header() {
   return (
-    <header className='flex py-2 px-6 justify-between fixed w-full z-20 top-o items-center bg-gradient-to-t from-rsroyal-400/0 via-rsroyal-800/25 to-rsroyal-900'>
+    <header className='flex py-2 px-6 justify-between fixed w-full z-20 top-o items-center bg-gradient-to-t from-rssilver-400/0 via-rssilver-800/25 to-rssilver-900'>
       <Link href='/'>
         <Image src='/LogoFull.png' alt='' width={125} height={45} className='hover:cursor-pointer'/>
       </Link>

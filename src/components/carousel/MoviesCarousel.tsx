@@ -44,7 +44,7 @@ function convertLanguageCode(languageCode: string): string {
 
 function MoviesCarousel({ title, movies, isVertical }: Props) {
   return (
-    <div className=' mt-78 px-6'>
+    <div className='px-6'>
       <h2 className='px-10 py-2 text-xl font-bold text-rslight-200'>{title}</h2>
       <div
         className={cn(
