@@ -20,7 +20,7 @@ function Banner({ movies }: { movies: Movie[] }) {
 
     <div ref={emblaRef} className='relative cursor-pointer overflow-hidden'>
       <div className='flex xxl:ml-144'>
-        {movies.map((movie) => (
+        {movies?.map((movie) => (
           <div className='flex-full relative min-w-0' key={movie.id}>
             <Image
               src={getImagePath(movie.backdrop_path, true)}
